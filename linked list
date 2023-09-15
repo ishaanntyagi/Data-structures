@@ -14,7 +14,7 @@ int main()
 {
     int n;
 		printf("\n\n Linked List : To create and display Singly Linked List :\n");
-		printf("-------------------------------------------------------------\n");
+		
 		
     printf(" Input the number of nodes : ");
     scanf("%d", &n);
